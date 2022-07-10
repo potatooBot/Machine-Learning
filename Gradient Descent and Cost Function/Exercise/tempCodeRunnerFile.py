@@ -1,0 +1,1 @@
+ # print("m {}, b{} ,cost {},iteration {}".format(m_curr,b_curr,cost,i))
